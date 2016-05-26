@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jorgeuntd.github.io
+title: antonio oliveira
+tagline: a research progress blog in architectural robotics
+description: majoring in architecture and urban planning in brazil.<br />currently in an exchange program with the united states.<br />working with brett balogh at illinois institute of technology
+paginate: 5
