@@ -1,0 +1,22 @@
+---
+published: true
+title: updates
+layout: post
+---
+# updates on some resources :smile:
+
+i just wanted to *share* with you guys some of the **articles** and **websites** that i have found while looking for some *information* on **motion sensors** and **how to use** them:
+
+1. i found [this arcticle](http://illumin.usc.edu/165/motion-sensors/) that was published by the *university of southern california*, where they discuss **why people naturally choose automated things on everyday life instead of manual**. it also talks about **radar and infrared motion sensors**.
+
+2.  [this safewise text](http://www.safewise.com/resources/motion-sensor-guide) is interesting as well because it is a kind of **"motion sensors for dummies" guide** where they show how these kind of sensors work.
+
+3. i also found [this article](http://www.mdpi.com/2075-4698/6/2/16/htm) that is *not directly related* to what i was looking for, but makes a **great parallel between humans and robots, and how human work is being changed to automated work**.
+
+these are *only some of the numerous* cool links that i found online. there's also [this fun adafruit diy](https://learn.adafruit.com/halloween-scream-box) showing how to use an *infrared motion sensor* to activate a little *speakerbox* and create a **halloween scream box**. this is cool because it shows that **the idea i had about the talking trash can is not impossible**. this infrared motion sensor also have a [tutorial page on adafruit](https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor) showing all the *basics* of *how to use it*.
+
+that's it, these are some of the resources i was taking a look these days,
+
+see u soon, :blush:
+
+*antonio*
