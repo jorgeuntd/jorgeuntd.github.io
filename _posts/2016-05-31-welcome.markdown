@@ -8,7 +8,7 @@ layout: post
 my name is **antonio oliveira** and i am going to be working on a research about **architectural robotics** on this summer (2016). i was encouraged to share my progress with everyone during the process, so *that's why i started this blog*. i think it's going to be a great way to show our growth.
 we were also encouraged to start thinking about what we would like to focus on our **final project**. and i already have some idea of what would be interesting for me to do. i'm not sure yet if we will be able to do it, but it's just one thing that was in my mind when i saw this building at the *UIC campus*.
 
-![Image of Building at UIC Campus](https://raw.githubusercontent.com/jorgeuntd/jorgeuntd.github.io/master/images/building_at_uic.JPG)
+![Image of Building at UIC Campus](https://raw.githubusercontent.com/jorgeuntd/jorgeuntd.github.io/master/images/building_at_uic_edited.JPG)
 
 it is not perfectly seen in the picture, but this building have some free and kind of random walls around it. it looks like they were put there to block the sun in some specific times of the day, like when it's hotter. relating that to where i come from (teresina, pi - brazil), where it's so hot throughout all the year, i was thinking about maybe *automating some free walls, or windows to sense the sunlight or the heat that comes from the sun to move or close following the sun*. i'm not sure yet if this will work, but it's **just an idea**. anyway, i just wanted to introduce myself and what this blog will be. i hope i can *inspire* someone at some point.
 
