@@ -1,0 +1,16 @@
+---
+published: true
+title: week 03
+layout: post
+---
+# working on my wood box :smile:
+
+this **third week** has been *pretty good*. i was able to **finish the design** of my *wood box*, the way i wanted it. i went to the *shop* at *iit* to try to use the **laser cutter** for the first time, and it actually worked pretty well too. the only thing is that i am *still getting accostummed* to all the **configurations** we have to make in order to get the results we want. for example, i wanted one part of my pattern to be cut until the end, so it would make a hole in the wood, but the machine only engraved the design. it's not the end of the world. (*in fact, i think it looks even better this way*). it's just that i have to **play a little more** with the machine so that i can get accostummed to its *language*.
+
+here is an **image** of how the *pieces* are looking like right now:
+
+![Pieces of My Wood Box](https://raw.githubusercontent.com/jorgeuntd/jorgeuntd.github.io/master/images/wood_box_laser_cut.JPG)
+
+now i have to rush for the **midterm**, :stuck_out_tongue:
+
+antonio
