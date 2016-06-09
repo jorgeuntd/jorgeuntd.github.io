@@ -3,7 +3,7 @@ published: true
 title: updates
 layout: post
 ---
-# updates on some resources :smile:
+# updates on some resources 😄
 
 i just wanted to *share* with you guys some of the **articles** and **websites** that i have found while looking for some *information* on **motion sensors** and **how to use** them:
 
@@ -17,6 +17,6 @@ these are *only some of the numerous* cool links that i found online. there's al
 
 that's it, these are some of the resources i was taking a look these days,
 
-see u soon, :blush:
+see u soon, 😊
 
 *antonio*
