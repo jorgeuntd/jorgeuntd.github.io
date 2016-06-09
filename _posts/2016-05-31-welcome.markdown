@@ -3,7 +3,7 @@ published: true
 title: welcome!
 layout: post
 ---
-# hi there, :smile:
+# hi there, 😃
 
 my name is **antonio oliveira** and i am going to be working on a research about **architectural robotics** on this summer (2016). i was encouraged to share my progress with everyone during the process, so *that's why i started this blog*. i think it's going to be a great way to show our growth.
 we were also encouraged to start thinking about what we would like to focus on our **final project**. and i already have some idea of what would be interesting for me to do. i'm not sure yet if we will be able to do it, but it's just one thing that was in my mind when i saw this building at the *UIC campus*.
