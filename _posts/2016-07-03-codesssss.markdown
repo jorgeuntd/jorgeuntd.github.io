@@ -1,6 +1,6 @@
 ---
 published: true
-title: <codesssss> 📝
+title: codesssss 📝
 layout: post
 ---
 # hi there everyone!
